@@ -1,0 +1,194 @@
+*{
+    font-family: roboto;
+}
+.cont{
+    background:#1F3927;
+    width:100%;
+}
+.cont1{
+    width:100%;
+    background:;
+    display:flex;
+    justify-content:center;
+    
+    
+    
+}
+
+.header{
+    display:flex;
+    justify-content:space-between;
+    width:90%;
+}
+
+.img1{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    
+}
+
+.cap1{
+    
+    display:flex;
+    justify-content:center;
+    color:white;
+    font-weight:bold;
+    
+}
+.menu{
+    display:flex;
+    font-size:24px;
+    width:50%;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    color:white;
+    font-weight:extra-bold;
+    
+}
+
+
+.cont2{
+    display:flex;
+    justify-content:center;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+.header2{
+    display:flex;
+    
+    width:80%;
+    justify-content:space-between;
+    
+}
+.header2 h1{
+    font-size:48px;
+    font-weight:extra-bold;
+    color:#F9FAF8;
+}
+
+.header2 p{
+    color:#E5E7EB;
+    font-size:18px;
+}
+.img2{
+    width:100%;
+    height: 100%;
+    float:1;
+}
+.cont3{
+    display:flex;
+    justify-content:center;
+   
+   
+    
+}
+
+.cont4{
+    display:flex;
+    flex-direction:column;
+    padding-bottom:50px;
+   
+}
+
+.cont4 > .text{
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    color: black;
+    
+}
+.line{
+    width: 100%;
+}
+.cap2{
+    
+    display:flex;
+    justify-content:center;
+    color:Black;
+    font-weight:bold;
+    
+}
+
+.images{
+    display:flex;
+    height:200px;
+    justify-content: space-between;
+    
+   
+    
+}
+
+img{
+    width:90%;
+    height:200px;
+    justify-content: space-between;
+    display: flex;
+    
+    
+    
+}
+
+.third{
+    background: #E5E7EB;
+    display:flex;
+    justify-content:center;
+    padding:50px;
+}
+
+.third > div{
+    width:60%;
+}
+.fourth{
+    display:flex;
+    justify-content:end;
+    padding:50px;
+    width:
+    border: 5px solid black;
+}
+
+.mdiv{
+    width:100%;
+    background: #3882f6;
+    display:flex;
+    justify-content: center ;
+    border: 4px solid black;
+    
+}
+.subdiv1{
+    width:60%;
+}
+.subdiv1 p{
+    color:black;
+    font-size: 26px;
+    font-weight:;
+}
+
+.subdiv{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.info{
+    font-size: 36px;
+    font-weight: bolder;
+    color:white;
+}
+.click{
+    background:#3882F6;
+    border:1px solid white;
+    color:white;
+    font-weight:bold ;
+    font-size: 26px;
+}
+.last{
+    display:flex;
+    justify-content:center;
+    background: #1F3927;
+    padding:50px;
+    font-size: 16px;
+    color:white;
+}
+
+
