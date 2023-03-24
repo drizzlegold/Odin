@@ -133,12 +133,12 @@ img{
 .third{
     background: #E5E7EB;
     display:flex;
-    justify-content:center;
+    justify-content:end;
     padding:50px;
 }
 
 .third > div{
-    width:60%;
+    width:80%;
 }
 .fourth{
     display:flex;
