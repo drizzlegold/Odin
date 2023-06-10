@@ -27,6 +27,7 @@ function ComputerChoice(){
     switch(true){
          case(user != "ROCK" || user || "PAPER" || user != "SCISSORS"):
          console.log(user + " is not a valid entry")
+        
          break;
          
          case(user === computer):
